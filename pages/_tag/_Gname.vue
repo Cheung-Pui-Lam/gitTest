@@ -10,6 +10,7 @@
     <h1>游戏名称777{{this.$route.params.tag}}</h1>
     <h1>游戏名称888{{this.$route.params.tag}}</h1>
     <h1>游戏名称999{{this.$route.params.tag}}</h1>
+    <h1>游戏名称bbb{{this.$route.params.tag}}</h1>
     <hr>
 <!--  设置动态路由的二级参数:
       在一级路由参数的文件夹下(_tag)多设置另一个以`_参数`名命名的.vue文件
