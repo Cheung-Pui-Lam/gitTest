@@ -6,7 +6,7 @@
     2. 在文件夹下创建一个子级文件用于接受第二个参数(_games,用于接受第二个参数)
  -->
   <div>
-    <h1>游戏机({{this.$route.params.tag}})</h1>
+    <h1>游戏机111({{this.$route.params.tag}})</h1>
     <ul>
       <li><a :herf="this.$route.params.tag + '/Zelda'">塞尔达</a></li>
       <li><a :herf="this.$route.params.tag + '/Mario'">马里奥</a></li>
